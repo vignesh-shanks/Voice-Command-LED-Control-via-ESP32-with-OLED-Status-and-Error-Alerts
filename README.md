@@ -34,8 +34,7 @@ This project demonstrates how to control an LED using **Bluetooth voice commands
 2. Connect with your phone to **ESP32 Voice**
 3. Send voice commands via Bluetooth terminal
 
-## 📷 Demo (Optional)
-_Add images or video link here_
+
 
 ## 🧠 Author
 - Vignesh ([@viggu7](https://github.com/viggu7))
